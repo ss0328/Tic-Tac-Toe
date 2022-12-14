@@ -1,0 +1,3 @@
+Extract the zip file
+OPen the folder in VS code
+Run the server in VS code
